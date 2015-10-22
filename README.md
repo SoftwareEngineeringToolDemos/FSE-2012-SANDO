@@ -5,7 +5,7 @@ SANDO is a standalone  Local Code Search (LCS) tool. It aims at replacing the co
 
 This repository contains information related to the tool SANDO presented in the Foundations of Software Engineering, 2012. The tool was originally presented in [this paper](http://dl.acm.org/citation.cfm?id=2393612).
 
-This repository is not the original repository for this tool. Here are some links to the original project:
+This repository *is not* the original repository for this tool. Here are some links to the original project:
 
 - The Official [Project Page] (https://sando.codeplex.com/)
 - The Source Code [link] (https://sando.codeplex.com/SourceControl/latest)
