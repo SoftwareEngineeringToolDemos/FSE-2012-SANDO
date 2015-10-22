@@ -18,5 +18,5 @@ In this repository, for SANDO you will find:
 - :white_check_mark: Source code 
 - :white_check_mark: Executable tool
 
-This repository was constructed by [Bhanu Anand] (https://github.com/bhanuanand28) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson)
+This repository was constructed by [Bhanu Anand] (https://github.com/bhanuanand28) under the supervision of [Professor Emerson Murphy-Hill](https://github.com/CaptainEmerson)
 Thanks to [David Shepherd](https://www.codeplex.com/site/users/view/davidcshepherd) and colleagues for their help in establishing this repository.
