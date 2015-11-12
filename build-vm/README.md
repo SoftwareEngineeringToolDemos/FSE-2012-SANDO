@@ -18,3 +18,4 @@
  
 ### Acknowledgements :
  - The box used for this virtual machine is provided by [modernIE/w7-ie11](https://atlas.hashicorp.com/modernIE/boxes/w7-ie11)
+ - The commands to install dot-net-4.5 has been taken from [chocolatey](https://chocolatey.org/) website.
