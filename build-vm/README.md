@@ -16,5 +16,5 @@
  -  The license of the windows is updated by the [owner](https://atlas.hashicorp.com/modernIE/boxes/w7-ie11) of the box
  
  
- ### Acknowledgements :
-  - the box used for this virtual machine is provided by [modernIE/w7-ie11](https://atlas.hashicorp.com/modernIE/boxes/w7-ie11)
+### Acknowledgements :
+ - The box used for this virtual machine is provided by [modernIE/w7-ie11](https://atlas.hashicorp.com/modernIE/boxes/w7-ie11)
