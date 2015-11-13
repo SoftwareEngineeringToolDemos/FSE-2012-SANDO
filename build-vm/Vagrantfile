@@ -78,9 +78,9 @@ Vagrant.configure(2) do |config|
    #sudo wget -y https://www.microsoft.com/en-us/download/confirmation.aspx?id=30653
    
    #install chocolatey
-   config.vm.provision :shell, path: "scripts/install-dot-net.ps1"
+   config.vm.provision :shell, path: "scripts/install-chocolatey.bat"
    #install dot-net-4.5
-   config.vm.provision :shell, path: "scripts/install-dot-net-45.cmd"
+   config.vm.provision :shell, path: "scripts/install-dot-net-45.bat"
   
   # SHELL
    
