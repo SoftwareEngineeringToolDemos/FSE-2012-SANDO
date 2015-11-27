@@ -1,1 +1,1 @@
-Sando\UI.vsix
+Sando\UI.vsix /q
