@@ -22,6 +22,9 @@ Vagrant.configure(2) do |config|
    config.vm.provision :shell, path: "scripts/install-visual-studio.bat"
    #install SANDO
    config.vm.provision :shell, path: "scripts/install-Sando.bat"
+
+   #set startup programs
+   config.vm.provision :shell, path: "scripts/copy-startup.bat"
    
   config.vm.provider "virtualbox" do |vb|
   #   # Display the VirtualBox GUI when booting the machine
