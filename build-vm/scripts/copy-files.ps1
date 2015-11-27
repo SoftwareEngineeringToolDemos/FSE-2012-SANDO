@@ -2,5 +2,5 @@
 $desktop = [Environment]::GetFolderPath("Desktop")
 
 # Copy Files
-Copy-Item -path c:\vagrant\files\* -Destination $desktop -Recurse
+Copy-Item -path c:\vagrant\Files\* -Destination $desktop -Recurse
 
