@@ -6,15 +6,15 @@
 2. Download the [Vagrantfile] (Vagrantfile) and the [scripts] (https://github.com/SoftwareEngineeringToolDemos/FSE-2012-SANDO/tree/master/build-vm/scripts) from [build-vm] () folder to the folder on your machine where you want to install the VM.
 3. Navigate to that folder (via bash on Linux or Command Prompt on Windows) and execute the command :  
     ```
-    $ vagrant up --provider virtualbox"
+    $ vagrant up --provider virtualbox
     ```
 
 ### Note :  
  -  The Virtual Machine will take a long time as it installs windows, wait for the "vagrant up" command to complete as it provisions the VM for use.
  -  Deploys Base Vagrant Box : [modernIE/w7-ie11] (https://atlas.hashicorp.com/modernIE/boxes/w7-ie11)
  -  Default VM Login Credentials:  
-      user: vagrant  
-      password: vagrant
+      user: `vagrant`  
+      password: `vagrant`
  -  The license of the windows is updated by the [owner](https://atlas.hashicorp.com/modernIE/boxes/w7-ie11) of the box
  -  The visual Studio which starts at startup is an evaluation version provided by [Microsoft](https://www.microsoft.com/en-US/Download/details.aspx?id=30654)
  -  Visual Studio will ask for few things at startup
