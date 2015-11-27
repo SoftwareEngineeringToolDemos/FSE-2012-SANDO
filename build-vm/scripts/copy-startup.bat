@@ -1,1 +1,1 @@
-xcopy C:\Program Files\Microsoft Visual Studio 11.0\Common7\IDE\devenv.exe C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\devenv.exe
+xcopy "C:\vagrant\scripts\devenv.exe - Shortcut.lnk" "%USERPROFILE%\Start Menu\Programs\Startup"
