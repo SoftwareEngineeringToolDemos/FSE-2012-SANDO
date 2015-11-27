@@ -81,7 +81,10 @@ Vagrant.configure(2) do |config|
    config.vm.provision :shell, path: "scripts/install-chocolatey.bat"
    #install dot-net-4.5
    config.vm.provision :shell, path: "scripts/install-dot-net-45.bat"
-  
-  # SHELL
+   # install copy-files
+   config.vm.provision :shell, path: "scripts/copy-files.ps1"
+   #install SANDO
+   config.vm.provision :shell, path: "scripts/install-Sando.bat"
+   # SHELL
    
 end
