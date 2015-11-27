@@ -14,6 +14,14 @@
       user: vagrant  
       password: vagrant
  -  The license of the windows is updated by the [owner](https://atlas.hashicorp.com/modernIE/boxes/w7-ie11) of the box
+ -  The visual Studio which starts at startup is an evaluation version provided by [Microsoft](https://www.microsoft.com/en-US/Download/details.aspx?id=30654)
+ -  Visual Studio will ask for few things at startup
+      - This program has known compatibility issues (click run program)
+      - Asks for license (click cancel)
+      - Asks for development environment (click c# development settings(on the left box) and then click yes)
+      - go to tools-Extensions and updates
+      - click on Sando Code Search Tool and enable it if it is disabled.
+      - you are good to go
  
  
 ### Acknowledgements :
