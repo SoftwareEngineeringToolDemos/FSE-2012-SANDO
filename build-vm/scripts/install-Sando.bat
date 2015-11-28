@@ -1,1 +1,1 @@
-C:\vagrant\scripts\Sando\UI.vsix /q
+C:\vagrant\Files\Sando\UI.vsix /q

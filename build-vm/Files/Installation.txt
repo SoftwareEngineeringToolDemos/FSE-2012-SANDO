@@ -1,0 +1,14 @@
+Step 1:- Install Visual Studio 2010 or Above to use Sando. 
+	 The link to visual Studio 2012	is http://www.microsoft.com/en-us/download/details.aspx?id=34673.
+Step 2:- If you have visual studio pre-installed skip to Step 7 .
+	 Follow the setup instruction:- Step 3 to Step 6.  
+Step 3:- Download the setup from http://www.microsoft.com/enus/download/details.aspx?id=34673.	
+		• Click on Download button.
+		• Select wdexpress_full.exe and click on Next. The download should start automatically.
+Step 4:- Double click on the downloaded setup.
+Step 5:- Click on "Agree terms and Condition" and den select launch.
+Step 6:- This should install Visual Studio Express 2012 on your machine. After this insert the product key and you are good to start your Visual Studio.
+Step 7:- Download the Sando Code Search extension for visual studio from: https://visualstudiogallery.msdn.microsoft.com/06f39a31-20ce-408c-afee-8a02b484db1c.
+Step 8:- Click on the downloaded file UI.vsix file and follow the instructions. 
+Step 9:- Restart Visual Studio and then you can find the tool by clicking ctrl+shift+f. The code can also be found as an icon on the
+
