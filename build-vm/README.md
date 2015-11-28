@@ -5,14 +5,13 @@
 #### Steps:
 1. Install [vagrant] (https://www.vagrantup.com/downloads.html) and [virtualbox] (https://www.virtualbox.org/wiki/Downloads) (preferrably latest versions) on host machine.
 2. Download the contents of [build-vm] () folder to the folder on your machine where you want to install the VM (can use git clone).
-3. Navigate to that folder (via bash on Linux or Command Prompt on Windows) and execute the command :  
+3. Navigate to that folder (via bash on Linux or Command Prompt on Windows) and execute the command:  
     ```
     $ vagrant up --provider virtualbox
     ```
 
-#### Note :  
+#### Note:  
  -  The Virtual Machine will take a long time as it installs windows, wait for the "vagrant up" command to complete as it provisions the VM for use.
- -  Deploys Base Vagrant Box : [modernIE/w7-ie11] (https://atlas.hashicorp.com/modernIE/boxes/w7-ie11)
  -  Default VM Login Credentials:  
       user: `vagrant`  
       password: `vagrant`
@@ -29,6 +28,6 @@
       8. You are god to go, refer to Readme.txt on Desktop for any doubts/steps/help
  
  
-#### Acknowledgements :
+#### Acknowledgements:
  - The box used for this virtual machine is provided by [modernIE/w7-ie11](https://atlas.hashicorp.com/modernIE/boxes/w7-ie11)
  - The commands to install dot-net-4.5 have been taken from [chocolatey](https://chocolatey.org/) website.
