@@ -12,7 +12,7 @@ You can start using it by opening visual studio 2012(pre-installed).
 	v)   Go to Tools -> Extensions and Updates
 	vi)  Click on Sando Code Search Tool and enable it if it is disabled (if Sando Code Search Tool is not present double click on the UI.vsix file in the folder Sando and click on next)
 	vii) Restart MS Visual Studio
-	viii)You are good to go, refer to Readme.txt on Desktop for any doubts/steps/help
+	viii)You are good to go.
 
 Either click on the S icon below the Menu-bar or press ctrl+shift+f to open the Sando Search tool.
 
