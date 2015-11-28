@@ -23,7 +23,7 @@
       3. Asks for development environment (click `C# Development Settings`(on the left box) and then click `Start Visual Studio`)
       4. Repeat Step 1 if required
       5. Go to `Tools` -> `Extensions and Updates`
-      6. Click on `Sando Code Search Tool` and enable it if it is disabled (if Sando Code Search Tool is not present double            click on the UI.vsix file in the folder Sando and click on next)
+      6. Click on `Sando Code Search Tool` and enable it if it is disabled (if Sando Code Search Tool is not present double            click on the UI.vsix file in the folder Sando(on desktop) and click on next)
       7. Restart MS Visual Studio
       8. You are good to go, refer to Readme.txt on Desktop for any doubts/steps/help
  
