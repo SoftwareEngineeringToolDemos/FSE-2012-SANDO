@@ -12,7 +12,7 @@
 
 #### Note:  
  -  The Virtual Machine will take a long time as it installs windows, wait for the "vagrant up" command to complete as it provisions the VM for use.
- -  Default VM Login Credentials:  
+ -  Default VM Login Credentials (if asked):  
       user: `vagrant`  
       password: `vagrant`
  -  The license of the windows is updated by the [owner](https://atlas.hashicorp.com/modernIE/boxes/w7-ie11) of the box
@@ -23,11 +23,11 @@
       3. Asks for development environment (click `C# Development Settings`(on the left box) and then click `Start Visual Studio`)
       4. Repeat Step 1 if required
       5. Go to `Tools` -> `Extensions and Updates`
-      6. Click on `Sando Code Search Tool` and enable it if it is disabled
+      6. Click on `Sando Code Search Tool` and enable it if it is disabled (if Sando Code Search Tool is not present double            click on the UI.vsix file in the folder Sando and click on next)
       7. Restart MS Visual Studio
-      8. You are god to go, refer to Readme.txt on Desktop for any doubts/steps/help
+      8. You are good to go, refer to Readme.txt on Desktop for any doubts/steps/help
  
  
 #### Acknowledgements:
  - The box used for this virtual machine is provided by [modernIE/w7-ie11](https://atlas.hashicorp.com/modernIE/boxes/w7-ie11)
- - The commands to install dot-net-4.5 have been taken from [chocolatey](https://chocolatey.org/) website.
+ 
