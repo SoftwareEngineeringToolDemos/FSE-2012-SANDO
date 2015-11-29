@@ -9,6 +9,15 @@
     ```
     $ vagrant up --provider virtualbox
     ```
+4. Virtual Machine may reload once or twice while provisioning.
+5. After provisioning finishes, Visual Studio will startup after reload. Visual Studio is an evaluation version and hence will ask for few things at startup:
+    1. Dialogue box saying: This program has known compatibility issues (click checkbox next to `Don't show me this message again` and choose `Run Program`)
+    2. Asks for license (click `Cancel`)
+    3. Wait for Visual Studio to load settings.
+    5. Go to `Tools` -> `Extensions and Updates`
+    6. Click on `Sando Code Search Tool` and enable it if it is disabled (if Sando Code Search Tool is not present, highly unlikely, install the UI.vsix file in the folder Sando (on desktop))
+    7. MS Visual Studio will ask for restart. Click `Restart`.
+    8. You are good to go, refer to Readme.txt on Desktop for any doubts/steps/help
 
 #### Note:  
  -  The Virtual Machine will take a long time as it installs windows, wait for the "vagrant up" command to complete as it provisions the VM for use.
@@ -17,16 +26,6 @@
       password: `Passw0rd!`
  -  The license of the windows is updated by the [owner](https://atlas.hashicorp.com/modernIE/boxes/w7-ie11) of the box
  -  The visual Studio which starts at startup is an evaluation version provided by [Microsoft](https://www.microsoft.com/en-US/Download/details.aspx?id=30654)
- -  Visual Studio will ask for few things at startup
-      1. Dialogue box saying: This program has known compatibility issues (click `Run Program`)
-      2. Asks for license (click `Cancel`)
-      3. Asks for development environment (click `C# Development Settings`(on the left box) and then click `Start Visual Studio`)
-      4. Repeat Step 1 if required
-      5. Go to `Tools` -> `Extensions and Updates`
-      6. Click on `Sando Code Search Tool` and enable it if it is disabled (if Sando Code Search Tool is not present double            click on the UI.vsix file in the folder Sando(on desktop) and click on next)
-      7. Restart MS Visual Studio
-      8. You are good to go, refer to Readme.txt on Desktop for any doubts/steps/help
- 
  
 #### Acknowledgements:
  - The box used for this virtual machine is provided by [modernIE/w7-ie11](https://atlas.hashicorp.com/modernIE/boxes/w7-ie11)
