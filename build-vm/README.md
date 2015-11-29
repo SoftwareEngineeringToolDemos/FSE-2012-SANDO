@@ -10,7 +10,7 @@
     $ vagrant up --provider virtualbox
     ```
 4. Virtual Machine may reload once or twice while provisioning.
-5. After provisioning finishes, Visual Studio will startup after reload. Visual Studio is an evaluation version and hence will ask for few things at startup:
+5. After provisioning finishes, Visual Studio will start after reload. Visual Studio is an evaluation version and hence will ask for few things at startup:
     1. Dialogue box saying: This program has known compatibility issues (click checkbox next to `Don't show me this message again` and choose `Run Program`)
     2. Asks for license (click `Cancel`)
     3. Wait for Visual Studio to load settings.
