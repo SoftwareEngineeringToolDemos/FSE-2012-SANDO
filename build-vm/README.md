@@ -29,4 +29,5 @@
  
 #### Acknowledgements:
  - The box used for this virtual machine is provided by [modernIE/w7-ie11](https://atlas.hashicorp.com/modernIE/boxes/w7-ie11)
+ - Uses [Info-ZIP] (http://www.info-zip.org/UnZip.html#Downloads) unzip software
  
