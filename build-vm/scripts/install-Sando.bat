@@ -1,1 +1,0 @@
-C:\vagrant\Files\Sando\UI.vsix /q

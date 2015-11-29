@@ -10,5 +10,5 @@ Step 5:- Click on "Agree terms and Condition" and den select launch.
 Step 6:- This should install Visual Studio Express 2012 on your machine. After this insert the product key and you are good to start your Visual Studio.
 Step 7:- Download the Sando Code Search extension for visual studio from: https://visualstudiogallery.msdn.microsoft.com/06f39a31-20ce-408c-afee-8a02b484db1c.
 Step 8:- Click on the downloaded file UI.vsix file and follow the instructions. 
-Step 9:- Restart Visual Studio and then you can find the tool by clicking ctrl+shift+f. The code can also be found as an icon on the
+Step 9:- Restart Visual Studio and then you can find the tool by clicking ctrl+shift+f.
 
