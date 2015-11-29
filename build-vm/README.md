@@ -13,7 +13,7 @@
 #### Note:  
  -  The Virtual Machine will take a long time as it installs windows, wait for the "vagrant up" command to complete as it provisions the VM for use.
  -  Default VM Login Credentials (if asked):  
-      user: `IEUser`  
+      username: `IEUser`  
       password: `Passw0rd!`
  -  The license of the windows is updated by the [owner](https://atlas.hashicorp.com/modernIE/boxes/w7-ie11) of the box
  -  The visual Studio which starts at startup is an evaluation version provided by [Microsoft](https://www.microsoft.com/en-US/Download/details.aspx?id=30654)
