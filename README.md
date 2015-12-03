@@ -8,12 +8,12 @@ This repository contains information related to the tool SANDO presented in the 
 This repository *is not* the original repository for this tool. Here are some links to the original project:
 
 - The Official [Project Page] (https://sando.codeplex.com/)
-- The Source Code [link] (https://sando.codeplex.com/SourceControl/latest)
+- The Official [Download Page] (https://sando.codeplex.com/SourceControl/latest)
 - Brief [video] (https://www.youtube.com/watch?v=SDTPDpleOcM) of tool
 
 In this repository, for SANDO you will find:
 
-- :white_check_mark: [Source code] (./)  
+- :white_check_mark: [Source code] (https://github.com/SoftwareEngineeringToolDemos/FSE-2012-SANDO)  
 - :white_check_mark: [Executable tool] (Executable/)  
 - :white_check_mark: [Virtual machine containing tool] ()
 
