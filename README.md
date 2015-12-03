@@ -13,9 +13,9 @@ This repository *is not* the original repository for this tool. Here are some li
 
 In this repository, for SANDO you will find:
 
-- :white_check_mark: [Source code] (https://github.com/SoftwareEngineeringToolDemos/FSE-2012-SANDO)  
-- :white_check_mark: [Executable tool] (Executable/)  
-- :white_check_mark: [Virtual machine containing tool] ()
+- :white_check_mark: [Source code] (https://github.com/SoftwareEngineeringToolDemos/FSE-2012-SANDO) (available)  
+- :white_check_mark: [Executable tool] (Executable/) (available)  
+- :white_check_mark: [Virtual machine containing tool] () (available)  
 
 This repository was constructed by [Bhanu Anand] (https://github.com/bhanuanand28) under the supervision of [Professor Emerson Murphy-Hill](https://github.com/CaptainEmerson).
 Thanks to [David Shepherd](https://www.codeplex.com/site/users/view/davidcshepherd) and colleagues for their help in establishing this repository.
