@@ -13,7 +13,7 @@ This repository *is not* the original repository for this tool. Here are some li
 
 In this repository, for SANDO you will find:
 
-- :white_check_mark: [Source code] ()  
+- :white_check_mark: [Source code] (master/)  
 - :white_check_mark: [Executable tool] (Executable/)  
 - :white_check_mark: [Virtual machine containing tool] ()
 
