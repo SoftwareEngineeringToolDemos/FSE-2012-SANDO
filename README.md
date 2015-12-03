@@ -10,13 +10,12 @@ This repository *is not* the original repository for this tool. Here are some li
 - The Official [Project Page] (https://sando.codeplex.com/)
 - The Source Code [link] (https://sando.codeplex.com/SourceControl/latest)
 - Brief [video] (https://www.youtube.com/watch?v=SDTPDpleOcM) of tool
-- The [binary file](https://github.com/SoftwareEngineeringToolDemos/FSE-2012-SANDO/tree/master/Executable) in this repo 
-- The [source code](https://github.com/SoftwareEngineeringToolDemos/FSE-2012-SANDO) in this repo
 
 In this repository, for SANDO you will find:
 
-- :white_check_mark: [Source code] (/)  
+- :white_check_mark: [Source code] ()  
 - :white_check_mark: [Executable tool] (Executable/)  
+- :white_check_mark: [Virtual machine containing tool] ()
 
 This repository was constructed by [Bhanu Anand] (https://github.com/bhanuanand28) under the supervision of [Professor Emerson Murphy-Hill](https://github.com/CaptainEmerson)
 Thanks to [David Shepherd](https://www.codeplex.com/site/users/view/davidcshepherd) and colleagues for their help in establishing this repository.
